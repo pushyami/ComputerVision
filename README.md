@@ -1,4 +1,4 @@
 # ComputerVision
 
 
-Implementations of algorithms and comcepts in computer vision
+Implementations of algorithms and concepts in computer vision
